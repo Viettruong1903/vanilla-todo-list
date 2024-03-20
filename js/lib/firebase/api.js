@@ -5,7 +5,7 @@
 */
 
 import { ref, get } from 'firebase/database';
-import { db } from './config/firebase/firebaseInit';
+import { db } from './config/firebaseInit';
 
 /* 
           1. connect to the to do list
